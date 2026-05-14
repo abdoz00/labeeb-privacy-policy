@@ -112,7 +112,7 @@ We do not sell your personal data. We may share data with:
 You have the right to:
 - **Access** your personal data
 - **Correct** inaccurate data
-- **Delete** your account and all associated task data permanently at any time directly from within the app by navigating to **Settings > Delete Account**
+- **Delete** your account and all associated task data permanently at any time directly from within the app by navigating to **Settings > Delete Account**, or by requesting deletion via email if you can’t access the app
 - **Opt out** of personalized advertising
 - **Export** your data
 - **Withdraw consent** at any time
@@ -137,6 +137,7 @@ We may update this privacy policy from time to time. We will notify you of signi
 
 For questions about this privacy policy or your data, contact us at:
 - **Email:** labeebai949@gmail.com
+- **Account Deletion Request:** [Email us to delete your account and associated data](mailto:labeebai949@gmail.com?subject=Data%20Deletion%20request)
 - **App Support:** Through the app's settings or Play Store contact
 
 ---
